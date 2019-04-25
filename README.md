@@ -1,7 +1,7 @@
 Source Code for the book.
 
-#Learning F# Functional Data Structures and Algorithms
-###Get started with F# and explore functional programming paradigm with data structures and algorithms
+# Learning F# Functional Data Structures and Algorithms
+### Get started with F# and explore functional programming paradigm with data structures and algorithms
 ##### Adnan Masood, PhD.
 
 F# is a multi-paradigm programming language that
@@ -25,7 +25,7 @@ Finally, you will find resources and references that will give
 you a comprehensive overview of F# eco-system, helping
 you to go beyond the fundamentals.
 
-##Who this book is written for
+## Who this book is written for
 If you have just started your adventure with F#, then this book
 will help you take the right steps to become a successful F#
 coder. An intermediate knowledge of imperative programming
@@ -33,7 +33,7 @@ concepts, and a basic understanding of the algorithms and
 data structures in .NET environments using the C# language
 and BCL (Base Class Library), would be helpful.
 
-###What you will learn from this book
+### What you will learn from this book
 * Familiarize yourself with the functional programming nature of F# and explore its fundamentals
 * Utilize data structures available in F# and apply recursion and lazy evaluation
 * Gain insights into functional programming paradigms; dissect F# code and analyze code available in community projects
